@@ -1,5 +1,5 @@
 # flask-boiler-plate✨
-![](https://img.shields.io/github/license/nandiniproothi/flask-boiler-plate?color=fcfffc)
+![](https://img.shields.io/github/license/nandiniproothi/flask-boiler-plate?color=228b22)
 ### Flask boilerplate for a minimal "Hello World" application hosted on [Glitch](www.glitch.com)
 
 - `server.py` contains the main code.
