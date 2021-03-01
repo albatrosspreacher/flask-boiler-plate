@@ -1,6 +1,6 @@
 # flask-boiler-plate✨
 
-### Flask boiler plate for a minimal "Hello World" application hosted on [Glitch](www.glitch.com)
+### Flask boilerplate for a minimal "Hello World" application hosted on [Glitch](www.glitch.com)
 
 - `server.py` contains the main code.
 - `requirements.txt` contains a list of Python packages you import and use (in this case, it is only Flask).
